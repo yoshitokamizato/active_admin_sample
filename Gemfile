@@ -70,7 +70,7 @@ group :development, :test do
 end
 
 # markdown
-gem 'redcarpet', '~> 2.3.0'
+gem 'redcarpet', '~> 3.5.1'
 # シンタックスハイライト
 gem 'coderay'
 
